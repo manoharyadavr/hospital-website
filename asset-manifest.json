@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/manoharyadavr/hospital-website/static/css/main.623f049e.css",
+    "main.js": "/manoharyadavr/hospital-website/static/js/main.d654cb85.js",
+    "index.html": "/manoharyadavr/hospital-website/index.html",
+    "main.623f049e.css.map": "/manoharyadavr/hospital-website/static/css/main.623f049e.css.map",
+    "main.d654cb85.js.map": "/manoharyadavr/hospital-website/static/js/main.d654cb85.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.623f049e.css",
+    "static/js/main.d654cb85.js"
+  ]
+}
